@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PTVFGINN
 
 [Document3]
-DocumentPath=Front(QC_PD).SchDoc
+DocumentPath=Front(LDR).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
